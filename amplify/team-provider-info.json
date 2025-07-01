@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactmovieapp-dev-0c1ca-authRole",
+      "UnauthRoleArn": "arn:aws:iam::147997127622:role/amplify-reactmovieapp-dev-0c1ca-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::147997127622:role/amplify-reactmovieapp-dev-0c1ca-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-reactmovieapp-dev-0c1ca-deployment",
+      "UnauthRoleName": "amplify-reactmovieapp-dev-0c1ca-unauthRole",
+      "StackName": "amplify-reactmovieapp-dev-0c1ca",
+      "StackId": "arn:aws:cloudformation:ap-south-1:147997127622:stack/amplify-reactmovieapp-dev-0c1ca/56bef660-50ba-11f0-a781-062f790f4e45",
+      "AmplifyAppId": "d1qflb2iaq18j3"
+    },
+    "categories": {
+      "auth": {
+        "reactmovieapp85d85963": {}
+      }
+    }
+  }
+}
