@@ -87,6 +87,8 @@ const ManageMovies = () => {
 
       await axios.post(url, formData, { headers: { 'Content-Type': 'multipart/form-data' } });
       setForm(prev => ({ ...prev, poster_url: file_url }));
+      setErrors(prev => ({ ...prev, poster_url: '' }));
+
       alert("Upload successful!");
     } catch (error) {
       console.error('Upload failed', error);
